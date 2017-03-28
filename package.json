@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/svillagomez/gitpapel/issues"
   },
-  "homepage": "https://github.com/svillagomez/gitpapel#readme"
+  "homepage": "https://github.com/svillagomez/gitpapel#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
